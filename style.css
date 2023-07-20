@@ -1,0 +1,129 @@
+body {
+    background-image: url(Images/Background.jpg);
+    background-size: 100% 120%;
+}
+
+@font-face {
+    font-family: Cedarville_Cursive;
+    src: url(Cedarville_Cursive/CedarvilleCursive-Regular.ttf)
+}
+
+
+h1 {
+    font-size: 22px;
+    font-family: cursive;
+    background-color: #f0ffff8c;
+    width: 900px;
+    height: 100px;
+    margin: 10px auto;
+    padding: 10px 10px 10px 10px;
+    border-radius: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 5px 5px 20px aqua;
+}
+
+.one {
+    font-size: 20px;
+    font-family: Cedarville_Cursive;
+    background-color: #f0ffff8c;
+    text-align: center;
+    width: 300px;
+    height: 100px;
+    margin: 50px 50px 20px 50px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    box-shadow: 5px 5px 20px #e98680
+}
+
+.one span {
+    font-size: 30px;
+    color: #e98680
+}
+
+.two {
+    font-size: 20px;
+    font-family: Cedarville_Cursive;
+    background-color: #f0ffff8c;
+    text-align: center;
+    width: 300px;
+    height: 100px;
+    margin: 10px 300px;
+    padding: 10px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 5px 5px 20px #B6A2C1
+}
+
+.two span {
+    font-size: 30px;
+    color: #260f39
+}
+
+
+
+.three {
+    font-size: 20px;
+    font-family: Cedarville_Cursive;
+    background-color: #f0ffff8c;
+    text-align: center;
+    width: 300px;
+    height: 100px;
+    margin: 10px 600px;
+    padding: 10px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 5px 5px 20px #070415
+}
+
+.three span {
+    font-size: 30px;
+    color:#070415
+}
+
+.four {
+    font-size: 30px;
+    font-family: Cedarville_Cursive;
+    background-color: #f0ffff8c;
+    text-align: center;
+    width: 400px;
+    height: 100px;
+    margin: 10px 900px;
+    padding: 10px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 5px 5px 20px aqua
+    
+}
+
+.four span {
+    font-size: 30px;
+    color:aqua
+}
+
+.button {
+    font-size: 30px;
+    font-family: Cedarville_Cursive;
+    background-color: #f0ffff8c;
+    text-align: center;
+    width: 400px;
+    height: 100px;
+    margin: 0px 1300px;
+    padding: 10px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 5px 5px 20px #0A3542;
+    color:#0A3542
+}
+
